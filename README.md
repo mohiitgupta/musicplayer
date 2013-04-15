@@ -1,0 +1,1 @@
+This is an android application which performs the basic functions of a music player and also has some out of the box features like searching for a song on the web which is not available in the phone and a listview which is very charming with the thumbnails and other useful information about the song.
